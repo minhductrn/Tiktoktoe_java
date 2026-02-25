@@ -1,0 +1,13 @@
+# Java
+*.class
+
+# C/C++ build artifacts
+*.exe
+*.obj
+*.ilk
+*.pdb
+
+# Common temp/build folders
+bin/
+build/
+out/
